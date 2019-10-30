@@ -112,7 +112,7 @@ login(){
             }
             else
             {
-              window.alert("Wrong username or password");
+              window.alert("Please enter valid User credentials!");
             }
         }, (error) => {
             console.log(error);
