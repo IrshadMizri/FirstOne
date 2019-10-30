@@ -1,0 +1,18 @@
+button{
+    
+    background: #28d;
+    border-color: transparent;
+    color: #fff;
+    cursor: pointer;
+    padding: 20px;
+
+  }
+
+button:hover {
+    background: #17c;
+  }
+  
+  /* Buttons' focus effect */
+  login input:focus {
+    border-color: #05a;
+  }
